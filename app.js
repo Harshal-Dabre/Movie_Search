@@ -6,7 +6,7 @@
 
 
 
-let apiKey = "http://www.omdbapi.com/?i=tt3896198&apikey=cedb8aba&t=";
+let apiKey = "https://www.omdbapi.com/?i=tt3896198&apikey=cedb8aba&t=";
 
 let title = document.getElementById('title');
 let desc = document.getElementById('desc');
